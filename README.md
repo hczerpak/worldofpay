@@ -1,14 +1,4 @@
-# trayworkflows
-My solution to tray.io Backend Engineering Technical Test (2016)
-
-### Running with Docker (build & run)
-To build using docker use this:
-```
-git clone https://github.com/hczerpak/worldofpay.git
-cd worldofpay
-docker build -t hc/worldofpay .
-docker run -p 9000:9000 hc/worldofpay
-```
+# World Of Pay
 
 ### Running in terminal (clone & run)
 Assuming installed tools git, sbt, java etc:
